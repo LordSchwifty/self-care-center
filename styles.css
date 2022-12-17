@@ -31,13 +31,24 @@ main {
    background-color: white;
    height: 75px;
    width: 500px;
-   border-radius: 10px;
+   border-radius: 12px;
    display: flex;
    flex-direction: column;
    align-content: center;
    justify-content: space-around;
    align-items: center;
 }
+
+label {
+    font-family: Quicksand;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-inline: 5px;
+}
+/* #mantra-radio {
+    font-family: Quicksand;
+    font-size: 17px;
+} */
 .receive-button {
     color: white;
     font-family: Quicksand;
@@ -55,12 +66,14 @@ main {
     align-items: center;
     align-content: flex-end;
 }
+
+
 .textbox2 {
     margin-top: 100px;
     background-color: white;
     width: 750px;
     height: 150px;
-    border-radius: 10px;
+    border-radius: 12px;
     display: flex;
     flex-direction: column;
     align-content: center;
