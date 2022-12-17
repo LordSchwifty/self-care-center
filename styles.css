@@ -84,5 +84,7 @@ label {
     height: 55px;
     width: 55px;
     border-radius: 10px;
-  
+}
+.hidden {
+    display: none;
 }
