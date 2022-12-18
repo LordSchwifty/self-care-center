@@ -1,51 +1,29 @@
-# Self Care Center
-## Overview
-How can I care for myself? One way is with affirmations and mantras!
-Affirmations are thoughts of positive self-empowerment, meant to assert your self-worth.
-Mantras are repetive phrases that are repeated again and again during mindfulness practices. Your challenge is to build an app that helps users remind themselves of their inherent value!
 
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but any other code base should not be referenced. Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
-
-The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/self-care-center.html). 
-
-## Learning Goals
-
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
-- Write HTML and CSS to match a provided comp
-- Understand how to listen to and respond to user events
-- Individualize your programming skill set
-
-## Setup
-
-- Fork this project to your own Github account
-- Clone the repository to your local machine
-- `cd` into the project
-- Read this README thoroughly, then begin working!
-
-______________________________________________________  
-# README Template  
-Before turning this project in, erase this line and everything above it and fill in the info below.  
 ______________________________________________________  
 
 # Self-Care Center 
 
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
-
+I built the html and css of a website that is visually appealing. When a user clicks the receive message button they can either receive a randomly-generated mantra or affirmation. The app is solving the need for receiving affirmations and mantras.
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
+Fork the github repository, run git clone in their terminal, and open the application in vs code.
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-
+<img width="1076" alt="Screen Shot 2022-12-18 at 3 23 39 PM" src="https://user-images.githubusercontent.com/115128066/208320842-886b4b3f-ff3e-4062-b3bc-7fbddf847d2b.png">
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
+I am 3 weeks into mod1. I worked on it for approximately 15 hours. I was honestly pretty burnt out and did not put in as much work as I needed to in order to finish the project.
 
 ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.)
-
+https://github.com/LordSchwifty
 ### Learning Goals:
 [//]: <> (What were the learning goals of this project? What tech did you work with?)
+To recreate a functional website working with javascript, html, and CSS.
 
 ### Wins + Challenges:
 [//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?)
+The struggled to find the motivation to grind long hours on the project with winter festivities and burn out, I also struggled with finding a way to space out the mantra and affirmation radios playing with the display flex on vs code and in dev tools.

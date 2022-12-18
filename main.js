@@ -12,14 +12,14 @@ receiveMessageButton.addEventListener('click', showMessage)
 
 
 function getRandomIndex(array) {
-    return Math.floor(Math.random() * array.length)
+ return Math.floor(Math.random() * array.length)
 }
 
 function showMessage() {
- buddha.classList.add('hidden')
-    if(affirmationRadio.checked = true) {
-        messageBox.innerText = `${affirmations[getRandomIndex(affirmations)]}`
-}   else if(mantraRadio.checked = true) {
-    messageBox.innerText = `${mantras[getRandomIndex(mantras)]}`
+buddha.classList.add('hidden')
+ if(affirmationRadio.checked = true) {
+ messageBox.innerText = `${affirmations[getRandomIndex(affirmations)]}`
+} else if(mantraRadio.checked = true) {
+  messageBox.innerText = `${mantras[getRandomIndex(mantras)]}`
 }
 }
